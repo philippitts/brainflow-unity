@@ -1,0 +1,18 @@
+{
+    "name": "com.brainflow.brainflow",
+    "version": "5.0.0",
+    "displayName": "Brainflow",
+    "description": "How biosensors work",
+    "documentationUrl": "https://brainflow.readthedocs.io/",
+    "changelogUrl": "https://github.com/brainflow-dev/brainflow",
+    "licensesUrl": "https://github.com/brainflow-dev/brainflow",
+   "keywords": [
+      "biosensors",
+      "bci"
+    ],
+    "author": {
+      "name": "Andrey Parfenov",
+      "email": "a1994ndrey@gmail.com",
+      "url": "https://github.com/Andrey1994"
+    }
+  }
